@@ -1,0 +1,30 @@
+body, html {
+  background-color: white  !important;
+  text-align: center;
+}
+
+.headline {
+    text-align: center;
+    float : center;
+    
+}
+
+.middlepart {
+    column-count: 2;
+}
+
+.btn {
+    align: left;
+}
+
+.row1 {
+    float: left;
+}
+
+.row2 {
+     float: right;
+}
+
+.row2 p {
+     text-align: left;
+}
