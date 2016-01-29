@@ -17,13 +17,9 @@ body, html {
     align: left;
 }
 
-.row1 {
-    float: left;
-}
 
-.row2 {
-     float: right;
-}
+
+
 
 .row2 p {
      text-align: left;
